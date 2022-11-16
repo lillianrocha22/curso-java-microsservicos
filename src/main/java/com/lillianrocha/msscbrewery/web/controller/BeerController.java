@@ -1,7 +1,7 @@
 package com.lillianrocha.msscbrewery.web.controller;
 
 import com.lillianrocha.msscbrewery.service.BeerService;
-import com.lillianrocha.msscbrewery.web.dto.BeerDto;
+import com.lillianrocha.msscbrewery.web.model.BeerDto;
 import org.springframework.http.HttpHeaders;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
@@ -9,6 +9,7 @@ import org.springframework.web.bind.annotation.*;
 
 import java.util.UUID;
 
+@Deprecated
 @RequestMapping("/api/v1/beer")
 @RestController
 public class BeerController {

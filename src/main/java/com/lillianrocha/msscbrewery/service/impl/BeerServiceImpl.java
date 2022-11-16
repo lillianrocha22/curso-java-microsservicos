@@ -1,7 +1,7 @@
 package com.lillianrocha.msscbrewery.service.impl;
 
 import com.lillianrocha.msscbrewery.service.BeerService;
-import com.lillianrocha.msscbrewery.web.dto.BeerDto;
+import com.lillianrocha.msscbrewery.web.model.BeerDto;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.stereotype.Service;
 

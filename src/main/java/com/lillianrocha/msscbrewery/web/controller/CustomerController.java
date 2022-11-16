@@ -1,7 +1,7 @@
 package com.lillianrocha.msscbrewery.web.controller;
 
 import com.lillianrocha.msscbrewery.service.CustomerService;
-import com.lillianrocha.msscbrewery.web.dto.CustomerDto;
+import com.lillianrocha.msscbrewery.web.model.CustomerDto;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.GetMapping;

@@ -1,7 +1,7 @@
 package com.lillianrocha.msscbrewery.service.impl;
 
 import com.lillianrocha.msscbrewery.service.CustomerService;
-import com.lillianrocha.msscbrewery.web.dto.CustomerDto;
+import com.lillianrocha.msscbrewery.web.model.CustomerDto;
 import org.springframework.stereotype.Service;
 
 import java.util.UUID;

@@ -1,6 +1,6 @@
 package com.lillianrocha.msscbrewery.service;
 
-import com.lillianrocha.msscbrewery.web.dto.BeerDto;
+import com.lillianrocha.msscbrewery.web.model.BeerDto;
 
 import java.util.UUID;
 
